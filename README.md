@@ -1,4 +1,6 @@
 # springboot와 oauth2를 활용하여 client 구축
+- https://spring.io/guides/tutorials/spring-boot-oauth2 예제 (에러 내용 표시까지)
+
 - /spring-boot-oauth2/src/main/resources/application.yml 에 github와 google client id와 secret 값 추가하기
 
 ```yaml
